@@ -1,307 +1,307 @@
 {
   "Category1": [
     {
-      "value": 1,
+      "value": "1",
       "label": "平常也只在開球前一秒出現"
     },
     {
-      "value": 2,
+      "value": "2",
       "label": "除了打球，其他時間都在補眠修煉"
     },
     {
-      "value": 3,
+      "value": "3",
       "label": "發球沒準，吃飯超準"
     },
     {
-      "value": 4,
+      "value": "4",
       "label": "熱身前都在假裝拉筋，其實在放空"
     },
     {
-      "value": 5,
+      "value": "5",
       "label": "除了搶球，什麼都慢三拍"
     },
     {
-      "value": 6,
+      "value": "6",
       "label": "看比賽也一定看到對手崩潰才離場"
     },
     {
-      "value": 7,
+      "value": "7",
       "label": "睡前模擬賽點反殺三百遍"
     },
     {
-      "value": 8,
+      "value": "8",
       "label": "熬夜剪 highlight，早上照樣來熱身"
     },
     {
-      "value": 9,
+      "value": "9",
       "label": "平日修煉腦內三段攻擊套路"
     },
     {
-      "value": 10,
+      "value": "10",
       "label": "沒碰球前不要跟我說話"
     },
     {
-      "value": 11,
+      "value": "11",
       "label": "每球都刻進腦中回放十次"
     },
     {
-      "value": 12,
+      "value": "12",
       "label": "只在殺球後露出詭異微笑"
     },
     {
-      "value": 13,
+      "value": "13",
       "label": "呼吸會停，接球不能斷"
     }
   ],
   "Category2": [
     {
-      "value": 1,
+      "value": "1",
       "label": "週休五日的主攻手"
     },
     {
-      "value": 2,
+      "value": "2",
       "label": "每球都要吼的副攻手"
     },
     {
-      "value": 3,
+      "value": "3",
       "label": "閉眼傳球的舉球員"
     },
     {
-      "value": 4,
+      "value": "4",
       "label": "比球還快的自由球員"
     },
     {
-      "value": 5,
+      "value": "5",
       "label": "打到懷疑人生的接應球員"
     },
     {
-      "value": 6,
+      "value": "6",
       "label": "膝蓋寫滿青春的一年級板凳球員"
     },
     {
-      "value": 7,
+      "value": "7",
       "label": "每場都差點上場的高年級板凳球員"
     },
     {
-      "value": 8,
+      "value": "8",
       "label": "心率永遠 200 的熱身區替補球員"
     },
     {
-      "value": 9,
+      "value": "9",
       "label": "靠氣勢得分的臨時頂替球員"
     },
     {
-      "value": 10,
+      "value": "10",
       "label": "ColdPlay 演唱會被拍到的教練"
     },
     {
-      "value": 11,
+      "value": "11",
       "label": "一局三叫暫停的主教練"
     },
     {
-      "value": 12,
+      "value": "12",
       "label": "無情摔板的助理教練"
     },
     {
-      "value": 13,
+      "value": "13",
       "label": "看穿未來的戰術指導教練"
     },
     {
-      "value": 14,
+      "value": "14",
       "label": "跳躍力測試夢魘的體能訓練師"
     },
     {
-      "value": 15,
+      "value": "15",
       "label": "賽前會夢到比分的技術分析員"
     },
     {
-      "value": 16,
+      "value": "16",
       "label": "手速破表的球隊經理"
     },
     {
-      "value": 17,
+      "value": "17",
       "label": "瘋狂撿球的球僮"
     },
     {
-      "value": 18,
+      "value": "18",
       "label": "吹風式紀錄台記錄員"
     },
     {
-      "value": 19,
+      "value": "19",
       "label": "緊張到按錯的計分員"
     },
     {
-      "value": 20,
+      "value": "20",
       "label": "眼神比秒錶準的計時員"
     },
     {
-      "value": 21,
+      "value": "21",
       "label": "暗中觀察的報到人員"
     },
     {
-      "value": 22,
+      "value": "22",
       "label": "會抓球高點的攝影師"
     },
     {
-      "value": 23,
+      "value": "23",
       "label": "會貼紮也會心靈按摩的護理師"
     },
     {
-      "value": 24,
+      "value": "24",
       "label": "全場最會喊的啦啦隊成員"
     },
     {
-      "value": 25,
+      "value": "25",
       "label": "吹哨神準的裁判"
     },
     {
-      "value": 26,
+      "value": "26",
       "label": "瞬間舉旗的線審"
     },
     {
-      "value": 27,
+      "value": "27",
       "label": "搖旗到脫臼的應援團團長"
     },
     {
-      "value": 28,
+      "value": "28",
       "label": "神秘側拍的校隊觀察員"
     },
     {
-      "value": 29,
+      "value": "29",
       "label": "每場都在場邊熱身的預備選手"
     },
     {
-      "value": 30,
+      "value": "30",
       "label": "超會煮補湯的球員家長"
     }
   ],
   "Category3": [
     {
-      "value": 1,
+      "value": "1",
       "label": "今天的比數，只寫得下我的名字。"
     },
     {
-      "value": 2,
+      "value": "2",
       "label": "勝利早就預約好了，別再掙扎了。"
     },
     {
-      "value": 3,
+      "value": "3",
       "label": "就算閉眼打，還是會贏你們兩局。"
     },
     {
-      "value": 4,
+      "value": "4",
       "label": "這場不是比賽，是你們的磨練。"
     },
     {
-      "value": 5,
+      "value": "5",
       "label": "把你們最強的派出來，我趕時間。"
     },
     {
-      "value": 6,
+      "value": "6",
       "label": "上次輸的分，今天全數奉還。"
     },
     {
-      "value": 7,
+      "value": "7",
       "label": "光是你們的站位就透露一切。"
     },
     {
-      "value": 8,
+      "value": "8",
       "label": "會留一點比分給你們拍照發 IG。"
     },
     {
-      "value": 9,
+      "value": "9",
       "label": "記得賽後對我鞠躬，這是基本禮貌。"
     },
     {
-      "value": 10,
+      "value": "10",
       "label": "我不是主角，但主角都會被我打下去。"
     },
     {
-      "value": 11,
+      "value": "11",
       "label": "就算我倒了，也要拖你們一個下來。"
     },
     {
-      "value": 12,
+      "value": "12",
       "label": "球還沒開打，你們的氣場就碎了。"
     },
     {
-      "value": 13,
+      "value": "13",
       "label": "這場結束後你們會重新思考人生。"
     },
     {
-      "value": 14,
+      "value": "14",
       "label": "從我起跳那刻起，結局就寫好了。"
     },
     {
-      "value": 15,
+      "value": "15",
       "label": "今天不只是輸，是徹底崩壞。"
     },
     {
-      "value": 16,
+      "value": "16",
       "label": "這不是對戰，是你們的畢業考。"
     },
     {
-      "value": 17,
+      "value": "17",
       "label": "別想逆轉劇情，劇本我寫的。"
     },
     {
-      "value": 18,
+      "value": "18",
       "label": "求饒的時候別太大聲，會被收音。"
     },
     {
-      "value": 19,
+      "value": "19",
       "label": "接下來每一球，都是命運審判。"
     },
     {
-      "value": 20,
+      "value": "20",
       "label": "我的影子都能壓住你們的氣場。"
     },
     {
-      "value": 21,
+      "value": "21",
       "label": "我的吼聲會讓你們忘記怎麼接球。"
     },
     {
-      "value": 22,
+      "value": "22",
       "label": "我的球不會掉地，只會砸心臟。"
     },
     {
-      "value": 23,
+      "value": "23",
       "label": "這不是戰術，是單方面的處刑。"
     },
     {
-      "value": 24,
+      "value": "24",
       "label": "這場比完，你們會愛上恐懼。"
     },
     {
-      "value": 25,
+      "value": "25",
       "label": "別看我笑，那是戰鬥模式開啟。"
     },
     {
-      "value": 26,
+      "value": "26",
       "label": "我一發球，你們連名字都想不起來。"
     },
     {
-      "value": 27,
+      "value": "27",
       "label": "這場會變成你們的排球創傷事件。"
     },
     {
-      "value": 28,
+      "value": "28",
       "label": "就算你們贏不了，也要演得像樣點。"
     },
     {
-      "value": 29,
+      "value": "29",
       "label": "連你們的自由球員都無法自由。"
     },
     {
-      "value": 30,
+      "value": "30",
       "label": "今天只給你們一次碰球機會，珍惜。"
     },
     {
-      "value": 31,
+      "value": "31",
       "label": "我不是來打比賽，是來寫傳說的。"
     },
     {
-      "value": 32,
+      "value": "32",
       "label": "你們的希望，現在由我踩碎。"
     }
   ]
