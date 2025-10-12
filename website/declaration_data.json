@@ -1,0 +1,290 @@
+[
+  {
+    "id": 18,
+    "nick_name": "mo nin ko",
+    "is_participating": true,
+    "declaration_data": "13,29,5"
+  },
+  {
+    "id": 25,
+    "nick_name": "吳柳丁",
+    "is_participating": true,
+    "declaration_data": "4,6,26"
+  },
+  {
+    "id": 33,
+    "nick_name": "大雄比較懶",
+    "is_participating": true,
+    "declaration_data": "5,17,9"
+  },
+  {
+    "id": 29,
+    "nick_name": "Fupanda",
+    "is_participating": true,
+    "declaration_data": "8,3,11"
+  },
+  {
+    "id": 2,
+    "nick_name": "火腿",
+    "is_participating": true,
+    "declaration_data": "3,30,13"
+  },
+  {
+    "id": 47,
+    "nick_name": "小莊",
+    "is_participating": false,
+    "declaration_data": "4,2,28"
+  },
+  {
+    "id": 7,
+    "nick_name": "Lin Chen",
+    "is_participating": true,
+    "declaration_data": "5,1,5"
+  },
+  {
+    "id": 16,
+    "nick_name": "輕輕鬆鬆龍捲風🌪️",
+    "is_participating": true,
+    "declaration_data": "2,24,1"
+  },
+  {
+    "id": 43,
+    "nick_name": "Gina",
+    "is_participating": false,
+    "declaration_data": "4,7,26"
+  },
+  {
+    "id": 8,
+    "nick_name": "樂樂",
+    "is_participating": true,
+    "declaration_data": "2,1,11"
+  },
+  {
+    "id": 28,
+    "nick_name": "以你為龍",
+    "is_participating": true,
+    "declaration_data": "3,21,11"
+  },
+  {
+    "id": 22,
+    "nick_name": "嘎穎",
+    "is_participating": true,
+    "declaration_data": "4,7,21"
+  },
+  {
+    "id": 17,
+    "nick_name": "小懷",
+    "is_participating": true,
+    "declaration_data": "13,5,25"
+  },
+  {
+    "id": 27,
+    "nick_name": "郁子",
+    "is_participating": true,
+    "declaration_data": "3,3,18"
+  },
+  {
+    "id": 4,
+    "nick_name": "AB",
+    "is_participating": true,
+    "declaration_data": "3,5,5"
+  },
+  {
+    "id": 32,
+    "nick_name": "馨永",
+    "is_participating": true,
+    "declaration_data": "3,17,4"
+  },
+  {
+    "id": 40,
+    "nick_name": "瑄賓奪竺",
+    "is_participating": true,
+    "declaration_data": "3,22,9"
+  },
+  {
+    "id": 41,
+    "nick_name": "炫",
+    "is_participating": true,
+    "declaration_data": "4,22,31"
+  },
+  {
+    "id": 12,
+    "nick_name": "大元",
+    "is_participating": true,
+    "declaration_data": "12,1,8"
+  },
+  {
+    "id": 42,
+    "nick_name": "阿楓",
+    "is_participating": false,
+    "declaration_data": "13,1,5"
+  },
+  {
+    "id": 45,
+    "nick_name": "婉菁",
+    "is_participating": false,
+    "declaration_data": "1,21,28"
+  },
+  {
+    "id": 20,
+    "nick_name": "Jeremy✨ ",
+    "is_participating": true,
+    "declaration_data": "4,17,25"
+  },
+  {
+    "id": 35,
+    "nick_name": "玉米",
+    "is_participating": true,
+    "declaration_data": "11,2,13"
+  },
+  {
+    "id": 30,
+    "nick_name": "Amber",
+    "is_participating": true,
+    "declaration_data": "3,24,5"
+  },
+  {
+    "id": 38,
+    "nick_name": "永遠28歲的",
+    "is_participating": true,
+    "declaration_data": "7,12,29"
+  },
+  {
+    "id": 36,
+    "nick_name": "中文",
+    "is_participating": true,
+    "declaration_data": "5,19,21"
+  },
+  {
+    "id": 10,
+    "nick_name": "Joe",
+    "is_participating": true,
+    "declaration_data": "2,4,32"
+  },
+  {
+    "id": 5,
+    "nick_name": "映廷",
+    "is_participating": true,
+    "declaration_data": "3,3,5"
+  },
+  {
+    "id": 9,
+    "nick_name": "浣熊",
+    "is_participating": true,
+    "declaration_data": "8,1,4"
+  },
+  {
+    "id": 26,
+    "nick_name": "松漢",
+    "is_participating": true,
+    "declaration_data": "13,10,13"
+  },
+  {
+    "id": 15,
+    "nick_name": "Fa",
+    "is_participating": true,
+    "declaration_data": "4,8,14"
+  },
+  {
+    "id": 23,
+    "nick_name": "Anchi Chen",
+    "is_participating": true,
+    "declaration_data": "3,22,17"
+  },
+  {
+    "id": 21,
+    "nick_name": "小楓",
+    "is_participating": true,
+    "declaration_data": "5,17,11"
+  },
+  {
+    "id": 1,
+    "nick_name": "血腥扣殺殺人魔",
+    "is_participating": true,
+    "declaration_data": "6,1,18"
+  },
+  {
+    "id": 46,
+    "nick_name": "Michelle",
+    "is_participating": false,
+    "declaration_data": "3,30,31"
+  },
+  {
+    "id": 31,
+    "nick_name": "胖胖",
+    "is_participating": true,
+    "declaration_data": "5,24,26"
+  },
+  {
+    "id": 19,
+    "nick_name": "Ling",
+    "is_participating": true,
+    "declaration_data": "4,17,7"
+  },
+  {
+    "id": 48,
+    "nick_name": "CHIKA IDOL",
+    "is_participating": false,
+    "declaration_data": "6,24,10"
+  },
+  {
+    "id": 34,
+    "nick_name": "MATSUMI",
+    "is_participating": true,
+    "declaration_data": "2,1,14"
+  },
+  {
+    "id": 44,
+    "nick_name": "9D",
+    "is_participating": false,
+    "declaration_data": "11,1,9"
+  },
+  {
+    "id": 37,
+    "nick_name": "達倫",
+    "is_participating": true,
+    "declaration_data": "3,9,10"
+  },
+  {
+    "id": 6,
+    "nick_name": "Meow ",
+    "is_participating": true,
+    "declaration_data": "13,4,25"
+  },
+  {
+    "id": 14,
+    "nick_name": "肥貓",
+    "is_participating": true,
+    "declaration_data": "4,15,14"
+  },
+  {
+    "id": 13,
+    "nick_name": "Loboo",
+    "is_participating": true,
+    "declaration_data": "13,1,30"
+  },
+  {
+    "id": 11,
+    "nick_name": "蝌蚪",
+    "is_participating": true,
+    "declaration_data": "6,29,29"
+  },
+  {
+    "id": 39,
+    "nick_name": "weiweiwei",
+    "is_participating": true,
+    "declaration_data": "12,21,25"
+  },
+  {
+    "id": 3,
+    "nick_name": "阿詮",
+    "is_participating": true,
+    "declaration_data": "5,11,17"
+  },
+  {
+    "id": 24,
+    "nick_name": "Lichin",
+    "is_participating": true,
+    "declaration_data": "4,8,13"
+  }
+]
